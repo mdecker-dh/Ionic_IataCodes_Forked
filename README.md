@@ -1,4 +1,4 @@
-# Ionic app to demonstrate automated tests #
+# Ionic-App: IATA-Codes abfragen #
 
 <br>
 

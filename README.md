@@ -2,18 +2,17 @@
 
 <br>
 
-This repository contains an Ionic app which uses Angular and Capacitor.
-The app's purpose is it to demonstrate how to write automatic tests for Ionic apps.
+Dieses Repository enthält eine Ionic-App, die Angular und Capacitor verwendet. 
+Der Zweck der App besteht darin, zu demonstrieren, wie automatische Tests für Ionic-Apps geschrieben werden können.
 
-The app allows to query for IATA codes (International Air Transport Association),
-namely [airport codes](https://en.wikipedia.org/wiki/IATA_airport_code)
-and [airline codes](https://en.wikipedia.org/wiki/Airline_codes), but only a few airports
-and airlines are actually "stored" (i.e. hard-coded) in the app,
-see [class IatadbService](src/app/iatadb.service.ts).
+Die App ermöglicht die Abfrage von IATA-Codes (International Air Transport Association), insbesondere 
+[Flughafen-Codes](https://en.wikipedia.org/wiki/IATA_airport_code) und [Fluglinien-Codes](https://en.wikipedia.org/wiki/Airline_codes). 
+Allerdings sind nur wenige Flughäfen und Fluggesellschaften tatsächlich in der App "gespeichert" (d.h. fest im Code hinterlegt), 
+siehe [Klasse IatadbService](src/app/iatadb.service.ts).
 
 <br>
 
-The author of this app is not related to the IATA in any way.
+Der Autor dieser App steht in keinerlei Verbindung zur IATA.
 
 <br>
 

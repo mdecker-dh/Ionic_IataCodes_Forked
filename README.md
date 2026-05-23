@@ -2,7 +2,8 @@
 
 <br>
 
-Dieses Repository enthält eine Ionic-App, die Angular und Capacitor verwendet. 
+Dieses Repository enthält eine [Ionic](https://ionicframework.com/)-App, die [Angular](https://angular.dev/) und 
+[Capacitor](https://capacitorjs.com/) verwendet. 
 Der Zweck der App besteht darin, zu demonstrieren, wie automatische Tests für Ionic-Apps geschrieben werden können.
 
 Die App ermöglicht die Abfrage von IATA-Codes (International Air Transport Association), insbesondere 
